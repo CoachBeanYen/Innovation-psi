@@ -15,6 +15,7 @@
     <description>PSI modules of innovation</description>
     <modules>
         <module>psi-common</module>
+        <module>psi-core</module>
     </modules>
 
 
